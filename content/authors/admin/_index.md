@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Di Duan 段頔
+title: Di Duan
 
 # Full name (for SEO)
 first_name: Di
