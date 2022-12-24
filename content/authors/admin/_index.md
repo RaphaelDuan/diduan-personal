@@ -67,5 +67,5 @@ email: 'duandiacademic@gmail.com'
 highlight_name: true
 ---
 
-I'm a PhD Candidate at City University of Hong Kong (CityU) supervised by Dr. Weitao Xu, also I'm working closely with Dr. Tianxing Li from Michigan State University (MSU). His research lies at the intersection of ubiquitous (pervasive) computing and deep learning — with a special focus on wearable computing.
+I'm a PhD Candidate at City University of Hong Kong (CityU) supervised by Dr. Weitao Xu, also I'm working closely with Dr. Tianxing Li from Michigan State University (MSU). My research lies at the intersection of ubiquitous (pervasive) computing and deep learning — with a special focus on wearable computing.
 {style="text-align: justify;"}
