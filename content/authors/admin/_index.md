@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Di Duan 段頔
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Di
+last_name: Duan
 
 # Status emoji
 status:
@@ -14,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate @ City University of Hong Kong
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: City University of Hong Kong
+    url: https://www.cityu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research lies at the intersection of ubiquitous (pervasive) computing and deep learning — with a special focus on wearable computing.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ubiquitous Computing (Pervasive Computing)
+  - Deep Learning
+  - Wearable Computing
 
 # Education to show in About widget
 education:
