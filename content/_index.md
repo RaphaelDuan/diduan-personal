@@ -28,18 +28,18 @@ sections:
           company: Bright Dream Robotics
           company_url: 'https://www.bzlrobot.com/'
           company_logo:
-          location: Guangdong, China
+          location: Foshan, Guangdong, China
           date_start: '2019-10'
           date_end: ''
           description:
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Research Intern
+          company: Unity Drive
+          company_url: 'https://unity-drive.com/'
+          company_logo:
+          location: Shenzhen, Guangdong, China
+          date_start: '2019-04'
+          date_end: '2019-10'
+          description:
     design:
       columns: '2'
   - block: accomplishments
